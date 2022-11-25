@@ -1,0 +1,353 @@
+
+mfer.png
+size: 345,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+prop/other/other_f/waterwave/waterwave
+  rotate: false
+  xy: 2, 2
+  size: 341, 52
+  orig: 341, 52
+  offset: 0, 0
+  index: -1
+
+mfer2.png
+size: 27,59
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+prop/other/other_f/waterdroplets/droplets
+  rotate: false
+  xy: 2, 2
+  size: 23, 55
+  orig: 23, 55
+  offset: 0, 0
+  index: -1
+
+mfer3.png
+size: 359,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+prop/other/other_f/waterline/waterline
+  rotate: false
+  xy: 2, 2
+  size: 355, 66
+  orig: 355, 66
+  offset: 0, 0
+  index: -1
+
+mfer4.png
+size: 345,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+prop/other/other_f/waterwave2/waterwave2
+  rotate: false
+  xy: 2, 2
+  size: 341, 52
+  orig: 341, 52
+  offset: 0, 0
+  index: -1
+
+mfer5.png
+size: 359,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+prop/other/other_f/waterline2/waterline2
+  rotate: false
+  xy: 2, 2
+  size: 355, 66
+  orig: 355, 66
+  offset: 0, 0
+  index: -1
+
+mfer6.png
+size: 23,214
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+prop/other/other_a/left_stick/left_stick
+  rotate: false
+  xy: 2, 2
+  size: 19, 210
+  orig: 19, 210
+  offset: 0, 0
+  index: -1
+
+mfer7.png
+size: 60,47
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+prop/other/caijian_a/front_hair_caijian/front_hair_empty
+  rotate: false
+  xy: 2, 2
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+
+mfer8.png
+size: 23,214
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+prop/other/other_b/right_stick/right_stick
+  rotate: false
+  xy: 2, 2
+  size: 19, 210
+  orig: 19, 210
+  offset: 0, 0
+  index: -1
+
+mfer9.png
+size: 605,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+prop/guitar/guitar_a/guitar/guitar
+  rotate: false
+  xy: 2, 2
+  size: 601, 1001
+  orig: 601, 1001
+  offset: 0, 0
+  index: -1
+
+mfer10.png
+size: 605,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+prop/guitar/guitar_a/bass/guitar
+  rotate: false
+  xy: 2, 2
+  size: 601, 1001
+  orig: 601, 1001
+  offset: 0, 0
+  index: -1
+
+mfer11.png
+size: 851,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clothing/top/top_a/top_1/clothes
+  rotate: false
+  xy: 2, 2
+  size: 521, 361
+  orig: 521, 361
+  offset: 0, 0
+  index: -1
+clothing/top/top_a/top_1/left_sleeves
+  rotate: false
+  xy: 525, 2
+  size: 161, 361
+  orig: 161, 361
+  offset: 0, 0
+  index: -1
+clothing/top/top_a/top_1/right_sleeves
+  rotate: false
+  xy: 688, 2
+  size: 161, 361
+  orig: 161, 361
+  offset: 0, 0
+  index: -1
+
+mfer12.png
+size: 328,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clothing/shoe/shoe_a/shoe_1/left_shoe
+  rotate: false
+  xy: 2, 2
+  size: 161, 141
+  orig: 161, 141
+  offset: 0, 0
+  index: -1
+clothing/shoe/shoe_a/shoe_1/right_shoe
+  rotate: false
+  xy: 165, 2
+  size: 161, 141
+  orig: 161, 141
+  offset: 0, 0
+  index: -1
+
+mfer13.png
+size: 768,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clothing/bottom/pants_a/pants_1/left_pants
+  rotate: false
+  xy: 2, 2
+  size: 381, 301
+  orig: 381, 301
+  offset: 0, 0
+  index: -1
+clothing/bottom/pants_a/pants_1/right_pants
+  rotate: false
+  xy: 385, 2
+  size: 381, 301
+  orig: 381, 301
+  offset: 0, 0
+  index: -1
+
+mfer14.png
+size: 525,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clothing/bottom/skirt_a/skirt_1/skirt
+  rotate: false
+  xy: 2, 2
+  size: 521, 301
+  orig: 521, 301
+  offset: 0, 0
+  index: -1
+
+mfer15.png
+size: 1021,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body/body/human_a/human_1/body
+  rotate: true
+  xy: 709, 2
+  size: 35, 286
+  orig: 35, 286
+  offset: 0, 0
+  index: -1
+body/body/human_a/human_1/face
+  rotate: true
+  xy: 2, 5
+  size: 270, 268
+  orig: 270, 268
+  offset: 0, 0
+  index: -1
+body/body/human_a/human_1/left_elbow
+  rotate: true
+  xy: 272, 14
+  size: 261, 219
+  orig: 261, 219
+  offset: 0, 0
+  index: -1
+body/body/human_a/human_1/left_leg
+  rotate: true
+  xy: 709, 158
+  size: 117, 310
+  orig: 117, 310
+  offset: 0, 0
+  index: -1
+body/body/human_a/human_1/right_elbow
+  rotate: true
+  xy: 493, 10
+  size: 265, 214
+  orig: 265, 214
+  offset: 0, 0
+  index: -1
+body/body/human_a/human_1/right_leg
+  rotate: true
+  xy: 709, 39
+  size: 117, 307
+  orig: 117, 307
+  offset: 0, 0
+  index: -1
+
+mfer16.png
+size: 911,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head/eye/eye_a/eye_1/glasses
+  rotate: false
+  xy: 2, 2
+  size: 301, 201
+  orig: 301, 201
+  offset: 0, 0
+  index: -1
+head/eye/eye_a/eye_1/left_eye
+  rotate: false
+  xy: 305, 2
+  size: 301, 201
+  orig: 301, 201
+  offset: 0, 0
+  index: -1
+head/eye/eye_a/eye_1/right_eye
+  rotate: false
+  xy: 608, 2
+  size: 301, 201
+  orig: 301, 201
+  offset: 0, 0
+  index: -1
+
+mfer17.png
+size: 305,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head/mouth/mouth_a/mouth_1/mask
+  rotate: false
+  xy: 2, 2
+  size: 300, 140
+  orig: 300, 140
+  offset: 0, 0
+  index: -1
+head/mouth/mouth_a/mouth_1/mouth
+  rotate: false
+  xy: 2, 144
+  size: 301, 141
+  orig: 301, 141
+  offset: 0, 0
+  index: -1
+
+mfer18.png
+size: 1310,1208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head/hair/hair_a/hair_1/back_hair
+  rotate: false
+  xy: 605, 3
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+head/hair/hair_a/hair_1/back_hat
+  rotate: false
+  xy: 2, 605
+  size: 601, 601
+  orig: 601, 601
+  offset: 0, 0
+  index: -1
+head/hair/hair_a/hair_1/front_hair
+  rotate: false
+  xy: 2, 2
+  size: 601, 601
+  orig: 601, 601
+  offset: 0, 0
+  index: -1
+head/hair/hair_a/hair_1/front_hat
+  rotate: false
+  xy: 605, 605
+  size: 601, 601
+  orig: 601, 601
+  offset: 0, 0
+  index: -1
+head/hair/hair_a/hair_1/left_earring
+  rotate: false
+  xy: 1207, 402
+  size: 101, 201
+  orig: 101, 201
+  offset: 0, 0
+  index: -1
+head/hair/hair_a/hair_1/right_earring
+  rotate: false
+  xy: 1207, 199
+  size: 101, 201
+  orig: 101, 201
+  offset: 0, 0
+  index: -1

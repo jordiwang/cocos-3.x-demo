@@ -1,0 +1,109 @@
+{
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "startScene": "274b5cfb-f017-4079-acb9-890d4016847c",
+    "buildPath": "project://build",
+    "outputName": "android",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "android",
+    "name": "cocos-3-demo",
+    "scenes": [
+      {
+        "url": "db://assets/Scene/Spine.scene",
+        "uuid": "274b5cfb-f017-4079-acb9-890d4016847c",
+        "inBundle": false
+      }
+    ]
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1669358035530": {
+        "type": "build",
+        "id": "1669358035530",
+        "progress": 1,
+        "state": "success",
+        "stage": "make",
+        "message": "2022-11-25 15:01:03 make package /Users/jordiawang/Developer/cocos-3.x-demo/build/android success!",
+        "options": {
+          "name": "cocos-3-demo",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "replaceSplashScreen": false,
+          "startScene": "274b5cfb-f017-4079-acb9-890d4016847c",
+          "outputName": "android",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/Spine.scene",
+              "uuid": "274b5cfb-f017-4079-acb9-890d4016847c",
+              "inBundle": false
+            }
+          ],
+          "android": [],
+          "packages": {
+            "android": {
+              "packageName": "com.qmcocos.www",
+              "orientation": {
+                "portrait": true,
+                "upsideDown": false,
+                "landscapeRight": false,
+                "landscapeLeft": false
+              },
+              "apiLevel": 28,
+              "appABIs": [
+                "arm64-v8a"
+              ],
+              "useDebugKeystore": true,
+              "keystorePath": "",
+              "keystorePassword": "",
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "sdkPath": "",
+              "ndkPath": "",
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": true
+              },
+              "swappy": false,
+              "__version__": "1.0.1"
+            },
+            "cocos-service": {
+              "configID": "908bf7",
+              "services": [],
+              "__version__": "3.0.4"
+            },
+            "native": {
+              "encrypted": false,
+              "xxteaKey": "c9KPKELr5OZo01t/",
+              "compressZip": false,
+              "JobSystem": "none",
+              "__version__": "1.0.2"
+            }
+          },
+          "__version__": "1.3.3"
+        },
+        "time": "2022-11-25 14:59",
+        "dirty": false
+      }
+    }
+  }
+}

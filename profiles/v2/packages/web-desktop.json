@@ -1,0 +1,8 @@
+{
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "startScene": "52f9a5db-cb69-4db8-a15f-83e675f3de6d"
+  }
+}

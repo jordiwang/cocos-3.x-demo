@@ -1,0 +1,466 @@
+{
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Audio": {
+    "time": 1668835171693.9827,
+    "uuid": "f43e2b1a-e660-4117-a5a6-ed9557656967",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Material": {
+    "time": 1668835171694.527,
+    "uuid": "70769421-359a-4d3d-b726-d75008e8aeed",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model": {
+    "time": 1668835171694.9146,
+    "uuid": "0ca992e2-6284-46b3-b098-544575df901b",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Prefab": {
+    "time": 1669346862096.2383,
+    "uuid": "7098143e-c247-4380-b649-ae34cefdca53",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Scene": {
+    "time": 1669346862097.0112,
+    "uuid": "25d0e14a-6b95-40c0-a61e-915147cc7cc4",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script": {
+    "time": 1669346862097.597,
+    "uuid": "a0fc8595-70d0-4d98-b1af-f3808e3e364b",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf": {
+    "time": 1668835171790.8152,
+    "uuid": "ec41c1f4-524d-40f6-9787-9597dbfd9902",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/HelloWorld": {
+    "time": 1668835171793.8274,
+    "uuid": "efc8290b-a30e-4b60-b485-45b6934169e4",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/WolfRun": {
+    "time": 1668835171796.1108,
+    "uuid": "6e637a57-da2c-44e0-a841-6b94d1a60985",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/HelloWorld/UIController.ts": {
+    "time": 1668835171793.741,
+    "uuid": "fbfdeeb2-c346-4711-8885-bda3a0b6322b",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/WolfRun/BlockController.ts": {
+    "time": 1668835171794.4045,
+    "uuid": "657b96b4-fadd-4edf-9836-7ffd23c7e8b9",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/WolfRun/CameraController.ts": {
+    "time": 1669017587697.6707,
+    "uuid": "d03e0bcb-7cb0-48ed-8c5a-97c7b690f2db",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/WolfRun/GlobalStore.ts": {
+    "time": 1668835171795.3062,
+    "uuid": "4c6a9f04-2fb0-48dd-8070-930aee1db497",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/WolfRun/UIController.ts": {
+    "time": 1668835171795.6135,
+    "uuid": "ff7fee94-6d69-4b2d-b727-6094a9a68dd1",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/WolfRun/WolfController.ts": {
+    "time": 1668835171796.0105,
+    "uuid": "c7ed8ac8-2157-4c95-a3ed-5c5ef9676ba0",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Audio.meta": {
+    "time": 1668835171692.9292
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Material.meta": {
+    "time": 1668835171796.3586
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model.meta": {
+    "time": 1668835171694.6858
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Prefab.meta": {
+    "time": 1668835171796.545
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Scene.meta": {
+    "time": 1668835171796.6963
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script.meta": {
+    "time": 1668835171796.8271
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf.meta": {
+    "time": 1668835171694.8467
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/HelloWorld.meta": {
+    "time": 1668835171793.5117
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/WolfRun.meta": {
+    "time": 1668835171794.0693
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/HelloWorld/UIController.ts.meta": {
+    "time": 1668835171793.8774
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/WolfRun/BlockController.ts.meta": {
+    "time": 1668835171794.6182
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/WolfRun/CameraController.ts.meta": {
+    "time": 1668835171795.0386
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/WolfRun/GlobalStore.ts.meta": {
+    "time": 1668835171795.4795
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/WolfRun/UIController.ts.meta": {
+    "time": 1668835171795.7993
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/WolfRun/WolfController.ts.meta": {
+    "time": 1668835171796.1733
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Audio/run.mp3": {
+    "time": 1668835171693.875,
+    "uuid": "0fa545bd-f6d7-4b6d-a996-d1b0b1ebd3a0",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Material/MaterialObstacale.mtl": {
+    "time": 1668835171694.2334,
+    "uuid": "de367291-41da-4cb9-8345-fd4a3e4adbcf",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Material/PhysicsGround.pmtl": {
+    "time": 1668835171694.4568,
+    "uuid": "bdd1251f-dc39-4cb3-83b6-fdaf6013422c",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Prefab/Block.prefab": {
+    "time": 1668835171791.4885,
+    "uuid": "306c1539-798c-48c9-a22e-088955732e5b",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Scene/Empty.scene": {
+    "time": 1669025427059.9756,
+    "uuid": "9e7bb4d2-c296-4009-95b7-c9fcee36ac94",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Scene/HelloWorld.scene": {
+    "time": 1668835171792.538,
+    "uuid": "f18cc13f-715a-49ab-8c0a-7469de192e62",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Scene/WolfRun.scene": {
+    "time": 1669192197860.5977,
+    "uuid": "6bfd2927-e35f-4cbb-8098-5a84dd25fa91",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/Fur_2.png": {
+    "time": 1668835171696.213,
+    "uuid": "378463af-20e8-4165-9c89-31888768fa26",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/Fur_Alpha_3.png": {
+    "time": 1668835171702.516,
+    "uuid": "490ed367-a35c-4bf2-b45c-b52a3a679622",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/Fur_Col_20.png": {
+    "time": 1668835171704.0059,
+    "uuid": "e413735f-f34c-4f28-b128-59f56be979f9",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/Material__wolf_col_tga_diffuse.jpeg": {
+    "time": 1668835171747.0027,
+    "uuid": "ab8afde3-cefb-40e6-b45f-34c62717bde2",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/Material__wolf_col_tga_diffuse_jpeg.jpg": {
+    "time": 1668835171753.7566,
+    "uuid": "f12cbf2e-e485-4851-9ac8-2757cb95f190",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/Wolf-Blender-2.82a.glb": {
+    "time": 1668835171780.483,
+    "uuid": "044b026a-1831-4bf1-b800-ca9b564d449b",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/eyes_diffuse.jpeg": {
+    "time": 1668835171781.4424,
+    "uuid": "d9a3d6f8-a57b-4679-8792-e132292bbfa0",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/eyes_diffuse_jpeg.jpg": {
+    "time": 1668835171781.8962,
+    "uuid": "882cd0f0-52ce-48d3-96ac-a0ce5c6584b7",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/fella3_Kopie_7.png": {
+    "time": 1668835171782.4932,
+    "uuid": "d494eabf-bc2e-4708-84da-2f02de50293d",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/fur__fella3_jpg_001_diffuse.png": {
+    "time": 1668835171790.418,
+    "uuid": "a627ba06-396d-4bd7-86e5-376d681df982",
+    "missing": true
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Material/PhysicsGround.pmtl.meta": {
+    "time": 1668835171694.574
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Material/MaterialObstacale.mtl.meta": {
+    "time": 1668835171694.352
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Prefab/Block.prefab.meta": {
+    "time": 1668835171791.8008
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Scene/HelloWorld.scene.meta": {
+    "time": 1668835171792.8152
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Scene/Empty.scene.meta": {
+    "time": 1668835171792.2393
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Scene/WolfRun.scene.meta": {
+    "time": 1668835171793.249
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Audio/run.mp3.meta": {
+    "time": 1668835171694.0376
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/Fur_Col_20.png.meta": {
+    "time": 1668835171704.1904
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/Fur_2.png.meta": {
+    "time": 1668835171696.371
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/Fur_Alpha_3.png.meta": {
+    "time": 1668835171702.7825
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/Material__wolf_col_tga_diffuse.jpeg.meta": {
+    "time": 1668835171747.287
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/Material__wolf_col_tga_diffuse_jpeg.jpg.meta": {
+    "time": 1668835171754.015
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/eyes_diffuse.jpeg.meta": {
+    "time": 1668835171781.691
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/eyes_diffuse_jpeg.jpg.meta": {
+    "time": 1668835171782.0354
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/fella3_Kopie_7.png.meta": {
+    "time": 1668835171782.8223
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/fur__fella3_jpg_001_diffuse.png.meta": {
+    "time": 1668835171790.9514
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Model/Wolf/Wolf-Blender-2.82a.glb.meta": {
+    "time": 1668835171781.162
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton.meta": {
+    "time": 1669346862098.4084
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton": {
+    "time": 1669346862098.81,
+    "uuid": "9f052136-2d24-4da3-a1ff-43d97a1f25a2",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People.meta": {
+    "time": 1669346862098.7224
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer.atlas.meta": {
+    "time": 1669346862099.2888
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer.json.meta": {
+    "time": 1669346862100.7568
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer.png.meta": {
+    "time": 1669346862101.2231
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer10.png.meta": {
+    "time": 1669346862101.837
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer11.png.meta": {
+    "time": 1669346862102.4834
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer12.png.meta": {
+    "time": 1669346862102.9832
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer13.png.meta": {
+    "time": 1669346862103.659
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer14.png.meta": {
+    "time": 1669346862104.2305
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer15.png.meta": {
+    "time": 1669346862105.1694
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer16.png.meta": {
+    "time": 1669346862105.7026
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer17.png.meta": {
+    "time": 1669346862106.2883
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer18.png.meta": {
+    "time": 1669346862106.9873
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer2.png.meta": {
+    "time": 1669346862107.4417
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer3.png.meta": {
+    "time": 1669346862107.8594
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer4.png.meta": {
+    "time": 1669346862108.2815
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer5.png.meta": {
+    "time": 1669346862108.7268
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer6.png.meta": {
+    "time": 1669346862109.167
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer7.png.meta": {
+    "time": 1669346862109.6052
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer8.png.meta": {
+    "time": 1669346862110.0254
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer9.png.meta": {
+    "time": 1669346862110.5845
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People": {
+    "time": 1669346862110.438,
+    "uuid": "ac8c8e1e-c1f9-4925-957d-8f7ee26723a5",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer.atlas": {
+    "time": 1669346862099.0503,
+    "uuid": "91f9d792-107c-46db-b958-4eaabdd2e6fb",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer.json": {
+    "time": 1669346862100.4888,
+    "uuid": "18ce45a6-0a99-4a4f-89ba-82072f9e7f57",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer.png": {
+    "time": 1669346862100.984,
+    "uuid": "6a30f3b4-63c0-4c28-8b48-a23f2f444355",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer11.png": {
+    "time": 1669346862102.2063,
+    "uuid": "f7ee37df-b1ba-4606-9317-a1f88af38332",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer10.png": {
+    "time": 1669346862101.5723,
+    "uuid": "821a7382-cad8-4474-ac0e-c7e21c4606bf",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer12.png": {
+    "time": 1669346862102.7463,
+    "uuid": "da875bd3-d175-4687-bac9-5ab1bf4317b4",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer13.png": {
+    "time": 1669346862103.316,
+    "uuid": "2a1410f0-740b-4a4c-b21f-d6ecc187d532",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer14.png": {
+    "time": 1669346862103.9656,
+    "uuid": "e199f0d0-c890-4e4f-b92a-93d517906ff6",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer15.png": {
+    "time": 1669346862104.8567,
+    "uuid": "0c11c0a2-d09b-4e57-be1c-3652da9a8269",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer16.png": {
+    "time": 1669346862105.4382,
+    "uuid": "d2c9b666-807e-4ac2-a3c3-63ac4fad5c2e",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer17.png": {
+    "time": 1669346862105.9673,
+    "uuid": "69e91f09-7cf4-4a6a-965f-cf16725ba364",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer2.png": {
+    "time": 1669346862107.2114,
+    "uuid": "c6a36d85-b91d-48b8-975f-e71afbcacac6",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer3.png": {
+    "time": 1669346862107.6467,
+    "uuid": "3213b728-54a6-4bf8-a84a-5dc51bdaad16",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer4.png": {
+    "time": 1669346862108.057,
+    "uuid": "77c27cc3-a41f-4fad-8936-8713612e984a",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer5.png": {
+    "time": 1669346862108.4785,
+    "uuid": "cbf5dd14-09bb-499b-b62e-f14b7278d173",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer6.png": {
+    "time": 1669346862108.9387,
+    "uuid": "c3cecff3-8343-4042-85d5-19159ef14d74",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer7.png": {
+    "time": 1669346862109.386,
+    "uuid": "09b0043b-768f-4581-97f3-06206c600238",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer18.png": {
+    "time": 1669346862106.7202,
+    "uuid": "99fa3976-9b02-4fb0-a3cf-39aa33619746",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer8.png": {
+    "time": 1669346862109.8083,
+    "uuid": "2a9265a9-ce65-49c7-bb62-a2c1bd7260bd",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Skeleton/People/mfer9.png": {
+    "time": 1669346862110.3389,
+    "uuid": "d849a92d-57db-4260-89c3-fd15da73ec04",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Prefab/People.prefab.meta": {
+    "time": 1669346862096.4001
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Prefab/People.prefab": {
+    "time": 1669346862096.133,
+    "uuid": "2f24d781-2852-429f-80ae-e914cddfb426",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/Spine.meta": {
+    "time": 1669346862097.5078
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/Spine": {
+    "time": 1669346862098.0088,
+    "uuid": "b153b285-f295-436d-a410-5779dde4bc09",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/Spine/SpineController.ts.meta": {
+    "time": 1669346862098.1672
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Script/Spine/SpineController.ts": {
+    "time": 1669346988825.6938,
+    "uuid": "ae8f4f40-faaf-4fcc-863c-babb2ef3e8c7",
+    "missing": false
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Scene/Spine.scene.meta": {
+    "time": 1669346862097.1787
+  },
+  "/Users/jordiawang/Developer/cocos-3.x-demo/assets/Scene/Spine.scene": {
+    "time": 1669359560020.562,
+    "uuid": "274b5cfb-f017-4079-acb9-890d4016847c",
+    "missing": false
+  }
+}

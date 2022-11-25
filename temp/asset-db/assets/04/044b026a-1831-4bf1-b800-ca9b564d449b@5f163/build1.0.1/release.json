@@ -1,0 +1,90 @@
+[
+    1,
+    [
+        "1brw/JvvpFnIvdrxpFCgMZ"
+    ],
+    [
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_name",
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            0,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    ],
+    [
+        [
+            0,
+            "Wolf Teeth",
+            [
+                {
+                    "rasterizerState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    },
+                    "depthStencilState": {}
+                }
+            ],
+            [
+                {
+                    "HAS_SECOND_UV": true
+                }
+            ],
+            [
+                [
+                    [
+                        {
+                            "metallic": 0,
+                            "roughness": 0.5
+                        },
+                        "albedoScale",
+                        8,
+                        [
+                            1,
+                            0.2260788530111313,
+                            0.23242701590061188,
+                            0.18831485509872437
+                        ],
+                        "emissive",
+                        8,
+                        [
+                            4,
+                            4278190080
+                        ]
+                    ]
+                ],
+                11
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

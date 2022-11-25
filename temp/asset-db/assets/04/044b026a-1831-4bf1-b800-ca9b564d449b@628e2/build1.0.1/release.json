@@ -1,0 +1,128 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.Mesh",
+            [
+                "_native",
+                "_hash",
+                "_struct"
+            ],
+            1,
+            11
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            ".bin",
+            1111915037,
+            [
+                {
+                    "primitives": [
+                        {
+                            "primitiveMode": 7,
+                            "jointMapIndex": 0,
+                            "vertexBundelIndices": [
+                                0
+                            ],
+                            "indexView": {
+                                "offset": 105920,
+                                "length": 3576,
+                                "count": 1788,
+                                "stride": 2
+                            }
+                        }
+                    ],
+                    "vertexBundles": [
+                        {
+                            "view": {
+                                "offset": 0,
+                                "length": 105920,
+                                "count": 1324,
+                                "stride": 80
+                            },
+                            "attributes": [
+                                {
+                                    "name": "a_position",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_normal",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord",
+                                    "format": 21,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_tangent",
+                                    "format": 44,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_joints",
+                                    "format": 42,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_weights",
+                                    "format": 44,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord1",
+                                    "format": 21,
+                                    "isNormalized": false
+                                }
+                            ]
+                        }
+                    ],
+                    "jointMaps": [
+                        [
+                            0,
+                            8,
+                            9
+                        ]
+                    ]
+                },
+                "minPosition",
+                8,
+                [
+                    1,
+                    -0.018225999549031258,
+                    0.4279993772506714,
+                    0.27761685848236084
+                ],
+                "maxPosition",
+                8,
+                [
+                    1,
+                    0.018225999549031258,
+                    0.45560139417648315,
+                    0.34550487995147705
+                ]
+            ]
+        ],
+        -1
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]

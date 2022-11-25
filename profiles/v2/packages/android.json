@@ -1,0 +1,49 @@
+{
+  "common": {
+    "buildPath": "project://build",
+    "outputName": "android",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "android",
+    "startScene": "274b5cfb-f017-4079-acb9-890d4016847c",
+    "name": "cocos-3-demo",
+    "scenes": [
+      {
+        "url": "db://assets/Scene/Spine.scene",
+        "uuid": "274b5cfb-f017-4079-acb9-890d4016847c",
+        "inBundle": false
+      }
+    ]
+  },
+  "options": {
+    "android": {
+      "packageName": "com.qmcocos.www",
+      "orientation": {
+        "portrait": true,
+        "upsideDown": false,
+        "landscapeRight": false,
+        "landscapeLeft": false
+      },
+      "apiLevel": 28,
+      "appABIs": [
+        "arm64-v8a"
+      ],
+      "useDebugKeystore": true,
+      "keystorePath": "",
+      "keystorePassword": "",
+      "keystoreAlias": "",
+      "keystoreAliasPassword": "",
+      "appBundle": false,
+      "androidInstant": false,
+      "remoteUrl": "",
+      "sdkPath": "",
+      "ndkPath": "",
+      "renderBackEnd": {
+        "vulkan": false,
+        "gles3": true,
+        "gles2": true
+      },
+      "swappy": false,
+      "__version__": "1.0.1"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cocos-3.x-demo",
+  "uuid": "df0c46e5-7a8e-43f5-8033-274fbdb55190",
+  "version": "3.6.2",
+  "creator": {
+    "version": "3.6.2"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}

@@ -1,0 +1,90 @@
+[
+    1,
+    [
+        "1brw/JvvpFnIvdrxpFCgMZ"
+    ],
+    [
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_name",
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            0,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    ],
+    [
+        [
+            0,
+            "Wolf_claws",
+            [
+                {
+                    "rasterizerState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    },
+                    "depthStencilState": {}
+                }
+            ],
+            [
+                {
+                    "HAS_SECOND_UV": true
+                }
+            ],
+            [
+                [
+                    [
+                        {
+                            "metallic": 0.30000001192092896,
+                            "roughness": 0.9363636374473572
+                        },
+                        "albedoScale",
+                        8,
+                        [
+                            1,
+                            0.14052072167396545,
+                            0.14052072167396545,
+                            0.14052072167396545
+                        ],
+                        "emissive",
+                        8,
+                        [
+                            4,
+                            4278190080
+                        ]
+                    ]
+                ],
+                11
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

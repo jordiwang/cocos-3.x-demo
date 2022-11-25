@@ -1,0 +1,565 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.Mesh",
+            [
+                "_native",
+                "_hash",
+                "_struct"
+            ],
+            1,
+            11
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            ".bin",
+            1606259863,
+            [
+                {
+                    "primitives": [
+                        {
+                            "primitiveMode": 7,
+                            "jointMapIndex": 0,
+                            "vertexBundelIndices": [
+                                0
+                            ],
+                            "indexView": {
+                                "offset": 10008,
+                                "length": 468,
+                                "count": 234,
+                                "stride": 2
+                            }
+                        },
+                        {
+                            "primitiveMode": 7,
+                            "jointMapIndex": 1,
+                            "vertexBundelIndices": [
+                                1
+                            ],
+                            "indexView": {
+                                "offset": 24012,
+                                "length": 948,
+                                "count": 474,
+                                "stride": 2
+                            }
+                        },
+                        {
+                            "primitiveMode": 7,
+                            "jointMapIndex": 2,
+                            "vertexBundelIndices": [
+                                2
+                            ],
+                            "indexView": {
+                                "offset": 48288,
+                                "length": 2616,
+                                "count": 1308,
+                                "stride": 2
+                            }
+                        },
+                        {
+                            "primitiveMode": 7,
+                            "jointMapIndex": 3,
+                            "vertexBundelIndices": [
+                                3
+                            ],
+                            "indexView": {
+                                "offset": 72288,
+                                "length": 1824,
+                                "count": 912,
+                                "stride": 2
+                            }
+                        },
+                        {
+                            "primitiveMode": 7,
+                            "jointMapIndex": 4,
+                            "vertexBundelIndices": [
+                                4
+                            ],
+                            "indexView": {
+                                "offset": 100968,
+                                "length": 3096,
+                                "count": 1548,
+                                "stride": 2
+                            }
+                        },
+                        {
+                            "primitiveMode": 7,
+                            "jointMapIndex": 5,
+                            "vertexBundelIndices": [
+                                5
+                            ],
+                            "indexView": {
+                                "offset": 123936,
+                                "length": 1680,
+                                "count": 840,
+                                "stride": 2
+                            }
+                        }
+                    ],
+                    "vertexBundles": [
+                        {
+                            "view": {
+                                "offset": 0,
+                                "length": 10008,
+                                "count": 139,
+                                "stride": 72
+                            },
+                            "attributes": [
+                                {
+                                    "name": "a_position",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_normal",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord",
+                                    "format": 21,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_tangent",
+                                    "format": 44,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_joints",
+                                    "format": 42,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_weights",
+                                    "format": 44,
+                                    "isNormalized": false
+                                }
+                            ]
+                        },
+                        {
+                            "view": {
+                                "offset": 10476,
+                                "length": 13536,
+                                "count": 188,
+                                "stride": 72
+                            },
+                            "attributes": [
+                                {
+                                    "name": "a_position",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_normal",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord",
+                                    "format": 21,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_tangent",
+                                    "format": 44,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_joints",
+                                    "format": 42,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_weights",
+                                    "format": 44,
+                                    "isNormalized": false
+                                }
+                            ]
+                        },
+                        {
+                            "view": {
+                                "offset": 24960,
+                                "length": 23328,
+                                "count": 324,
+                                "stride": 72
+                            },
+                            "attributes": [
+                                {
+                                    "name": "a_position",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_normal",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord",
+                                    "format": 21,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_tangent",
+                                    "format": 44,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_joints",
+                                    "format": 42,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_weights",
+                                    "format": 44,
+                                    "isNormalized": false
+                                }
+                            ]
+                        },
+                        {
+                            "view": {
+                                "offset": 50904,
+                                "length": 21384,
+                                "count": 297,
+                                "stride": 72
+                            },
+                            "attributes": [
+                                {
+                                    "name": "a_position",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_normal",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord",
+                                    "format": 21,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_tangent",
+                                    "format": 44,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_joints",
+                                    "format": 42,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_weights",
+                                    "format": 44,
+                                    "isNormalized": false
+                                }
+                            ]
+                        },
+                        {
+                            "view": {
+                                "offset": 74112,
+                                "length": 26856,
+                                "count": 373,
+                                "stride": 72
+                            },
+                            "attributes": [
+                                {
+                                    "name": "a_position",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_normal",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord",
+                                    "format": 21,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_tangent",
+                                    "format": 44,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_joints",
+                                    "format": 42,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_weights",
+                                    "format": 44,
+                                    "isNormalized": false
+                                }
+                            ]
+                        },
+                        {
+                            "view": {
+                                "offset": 104064,
+                                "length": 19872,
+                                "count": 276,
+                                "stride": 72
+                            },
+                            "attributes": [
+                                {
+                                    "name": "a_position",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_normal",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord",
+                                    "format": 21,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_tangent",
+                                    "format": 44,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_joints",
+                                    "format": 42,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_weights",
+                                    "format": 44,
+                                    "isNormalized": false
+                                }
+                            ]
+                        }
+                    ],
+                    "jointMaps": [
+                        [
+                            0,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12,
+                            13,
+                            14,
+                            20,
+                            21,
+                            26,
+                            29,
+                            30,
+                            31,
+                            32,
+                            37,
+                            40,
+                            41,
+                            42,
+                            43,
+                            44,
+                            45
+                        ],
+                        [
+                            0,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            8,
+                            9,
+                            11,
+                            12,
+                            13,
+                            14,
+                            20,
+                            21,
+                            22,
+                            27,
+                            31,
+                            32,
+                            33,
+                            34,
+                            35,
+                            36,
+                            37,
+                            41,
+                            42,
+                            43,
+                            45,
+                            46,
+                            47,
+                            48
+                        ],
+                        [
+                            0,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12,
+                            13,
+                            14,
+                            20,
+                            22,
+                            24,
+                            26,
+                            29,
+                            30,
+                            31,
+                            34,
+                            37,
+                            38,
+                            39,
+                            40,
+                            41,
+                            42,
+                            43,
+                            45,
+                            46
+                        ],
+                        [
+                            0,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12,
+                            13,
+                            20,
+                            22,
+                            24,
+                            26,
+                            29,
+                            30,
+                            31,
+                            32,
+                            34,
+                            35,
+                            36,
+                            41,
+                            42,
+                            43,
+                            44
+                        ],
+                        [
+                            0,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12,
+                            13,
+                            14,
+                            21,
+                            23,
+                            25,
+                            27,
+                            29,
+                            33,
+                            34,
+                            35,
+                            37,
+                            38,
+                            39,
+                            40,
+                            41,
+                            42,
+                            45,
+                            46,
+                            47
+                        ],
+                        [
+                            0,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12,
+                            14,
+                            21,
+                            23,
+                            25,
+                            27,
+                            29,
+                            33,
+                            34,
+                            35,
+                            36,
+                            41,
+                            45,
+                            46,
+                            47,
+                            48
+                        ]
+                    ]
+                },
+                "minPosition",
+                8,
+                [
+                    1,
+                    -0.10147400200366974,
+                    -0.008904566988348961,
+                    -0.6574259996414185
+                ],
+                "maxPosition",
+                8,
+                [
+                    1,
+                    0.10147400200366974,
+                    0.5671653747558594,
+                    0.3667418360710144
+                ]
+            ]
+        ],
+        -1
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]
